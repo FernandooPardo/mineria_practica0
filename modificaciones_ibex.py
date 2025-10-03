@@ -239,3 +239,5 @@ else:
 
 cursor.close()
 conexion_mysql.closeConnection()
+
+#En la practica he utilizado ChatGPT para ayudarme a resolver parte de algunos de los ejercicios propuestos, en concreto los ejercicios 3b, 4 y 5, ya que tuve partes que no supe resolver por mi mismo.
